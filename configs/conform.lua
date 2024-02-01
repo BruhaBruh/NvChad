@@ -11,6 +11,8 @@ local options = {
     html = { "prettier" },
     css = { "prettier" },
     javascript = { "javascript" },
+
+    java = { "clang_format" },
   },
 
   format_on_save = {

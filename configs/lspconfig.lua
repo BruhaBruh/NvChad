@@ -12,6 +12,7 @@ local servers = {
   "html",
   "cssls",
   "tsserver",
+  "jdtls",
 }
 
 for _, lsp in ipairs(servers) do

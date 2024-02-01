@@ -13,6 +13,8 @@ M.treesitter = {
     "javascript",
     "typescript",
     "tsx",
+    "java",
+    "kotlin",
   },
   indent = {
     enable = true,
@@ -33,6 +35,8 @@ M.mason = {
     "css-lsp",
     "typescript-language-server",
     "prettier",
+    "clang-format",
+    "jdtls",
   },
 }
 
