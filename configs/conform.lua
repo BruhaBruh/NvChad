@@ -7,6 +7,10 @@ local options = {
     go = { "goimports" },
 
     rust = { "rustfmt" },
+
+    html = { "prettier" },
+    css = { "prettier" },
+    javascript = { "javascript" },
   },
 
   format_on_save = {
